@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">マイマップアプリ</string>
+
+    <string name="main_context_menu_header">操作を選択してください</string>
+    <string name="main_context_menu_open">DBを開く</string>
+    <string name="main_context_menu_delete">DBを削除</string>
+    <string name="main_context_menu_detail">DB詳細</string>
+
+    <string name="menu_list_context_header">操作を選択してください</string>
+    <string name="menu_list_context_map">地図を表示</string>
+    <string name="menu_list_context_info">店舗詳細</string>
+    <string name="menu_list_context_edit">編集</string>
+    <string name="menu_list_option_shoplist">店舗一覧</string>
+    <string name="menu_list_option_regist">店舗登録</string>
+
+    <string name="main_title">マップデータ一覧</string>
+    <string name="shoplist_title">店舗一覧</string>
+    <string name="regist_title">店舗登録</string>
+    <string name="shopinfo_title">店舗詳細</string>
+
+    <string name="bt_create_new">新規作成</string>
+    <string name="bt_read">読み込み</string>
+    <string name="bt_regist">登録</string>
+    <string name="bt_back">戻る</string>
+    <string name="bt_delete">削除</string>
+    <string name="bt_edit">編集</string>
+    <string name="bt_search">検索</string>
+    <string name="bt_cancel">キャンセル</string>
+    <string name="bt_go_map">ここへ行く</string>
+
+    <string name="google_maps_api">AIzaSyBMi7Dfmy4tq1jqi6Csm06hoNw79PIFj-Q</string>
+
+    <string name="name">店名:</string>
+    <string name="address">住所:</string>
+    <string name="hours">営業時間:</string>
+    <string name="category">カテゴリー:</string>
+
+
+    <string name="ok">OK:</string>
+    <string name="cancel">キャンセル:</string>
+</resources>
